@@ -6,7 +6,7 @@ Programa da APS dos Alunos:
   Henrique Fontenele Gomes da Silva
   
   
-Orientações de uso:
+# Orientações de uso:
 
 Para inicialização adequada do programa, se é necessario a utilização do Python em sua versão: 3.11.0
 
