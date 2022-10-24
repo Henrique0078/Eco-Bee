@@ -5,6 +5,9 @@ Programa da APS dos Alunos:
   Lucas Henrique Freire Farias -
   Henrique Fontenele Gomes da Silva
   
+  
+Orientações de uso:
+
 Para inicialização adequada do programa, se é necessario a utilização do Python em sua versão: 3.11.0
 
 Caso for feita a copia do texto do arquivo, deve-se copiar juntamente a primeira linha vazia.
